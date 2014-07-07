@@ -238,7 +238,7 @@
               c.height = '16';
             }
             // color is always red
-            c.color = 'red';
+            c.color = 'gray';
           } else {
             if (c.shape === 'rect') {
               if (c.height !== '20' && c.height !== '28') {
